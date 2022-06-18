@@ -1,0 +1,6 @@
+x = input("Enter a string")
+print(x)
+z = x.split()
+print(z)
+y = "abc".join(z)
+print(y)
